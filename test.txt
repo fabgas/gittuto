@@ -1,4 +1,4 @@
 avant commit
 commit1
 commit4
-commit2
+commit2 commit 3
