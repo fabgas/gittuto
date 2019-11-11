@@ -1,0 +1,2 @@
+ceci est une voiture;
+une voiture électrique
