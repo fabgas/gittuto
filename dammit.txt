@@ -1,2 +1,2 @@
-ceci est une voiture A
+ceci est une voiture A;
 une voiture électrique B
